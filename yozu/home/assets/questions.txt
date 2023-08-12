@@ -1,0 +1,223 @@
+Q. Evaluate 2*tan^2 (45°) + cos^2 (30°) – sin^2 (60°)
+Q. What is the value of cos^2 (67°) – sin^2 (23°)
+Q. If (1 + cos A) (1 – cos A) = 3/4, find the value of sec A.
+Q. If cosec θ + cot θ = x, find the value of cosec θ – cot θ
+Q. If sinθ = x and secθ = y then find the value of cot θ.
+Q. Find the value of tan(65° – θ) – cot(25° + θ)
+Q. Find the value of cos θ + sec θ, when it is given that cos θ =1/2
+Q. Evaluate: 3 cot² 60° + sec² 45°
+Q. If sin A = cos A, find the value of 2tan²A + sin²A + 1
+Q. If sin A = cos A, find the value of 2tan² A + sin² A – 1
+Q. Evaluate: (4/Cot² 30°)+ (1/sin² 60°) - (cos² 45°)
+Q. Evaluate: 4(sin^4 (30°) + cos^4 (60°)) – 3(cos²45°-sin²90°)
+Q. 9*sec^2 (A) – 9*tan^2 (A)
+Q. when cos A = 4/5, the value for tan A is
+Q. when sin A = 1/2, the value of cot A is
+Q. In ∆ ABC, right-angled at B, AB = 24 cm, BC = 7 cm. Determine:  sin A, cos A
+Q. Evaluate :  sin 18°/cos 72°
+Q. Evaluate :  tan 26°/cot 64°
+Q. Evaluate :  cos 48° – sin 42°
+Q. Evaluate :  cosec 31° – sec 59°
+Q. If tan 2A = cot (A – 18°), where 2A is an acute angle, find the value of A
+Q. If sec 4A = cosec (A – 20°), where 4A is an acute angle, find the value of A.
+Q. Express sin 67° + cos 75° in terms of trigonometric ratios of angles between 0° and 45°.
+Q. Evaluate:  (sin^2 (63°) + sin^2 (27°))/(cos^2 (17°) + cos^2 (73°))
+Q. Evaluate:  sin 25° cos 65° + cos 25° sin 65°
+Q. Evaluate:  (1 + tan θ + sec θ) (1 + cot θ – cosec θ)
+Q. Evaluate:  (sec A + tan A) (1 – sin A)
+Q. Evaluate:  1 + tan^2 (A) / 1 + cot^2 (A)
+Q. If tan^2(A) = cot (A – 24°). Find A.
+Q. If cos^3 (A) = sin (A – 34°), where A is an acute angle, find the value of A.
+Q. ____ is the study of relationship between the sides and angles of a triangle.
+Q. If ΔABC is right, right angled at C, then value of cos (A + B) is ______.
+Q. If cos A = 12/13, then cot A is :
+Q. The value of sin 23° cos 67° + cos 23° sin 67° is:
+Q. The value of sin 32° cos 58° + cos 32° sin 58° is:
+Q. cos80/sin10 + cos 59° * cosec 31°
+Q. Evaluate:  sinθ cosecθ + cosθ secθ is equal to
+Q. 2*cosec 30° * sec 30° is equal to
+Q. The value of 3*sec(51)/cosec(39) is
+Q. If cos (90° – θ) = 12 then the value of θ is
+
+# above questions are from trigonometry from 1,40
+
+# below questions are from algebra from 46, 83
+
+Q. 10y = 80
+Q. b + 5 = 9
+Q. x - 6 = 11
+Q. q / 2 = 7
+Q. Simplify 21b – 32 + 7b – 20b
+Q. Simplify 5x^2*y – 5x^2 + 3*yx^2 – 3y^2 + x^2 – y^2 + 8*x*y^2 – 3y^2
+Q. In a room there are x2 rows of chairs and each two contains 2x2 chairs. The total number of chairs in the room is
+Q. a^3 × 2*a^2*b × 3*a*b^5 is equal to
+Q. Write an algebraic expression for : The sum of a number x and 4 is doubled
+Q. Think of a number x. Multiply it by 3 and add 5 to the product and subtract y subsequently. Find the resulting number.
+Q. Think of a number, add 2 to it and then multiply the sum by 6, the result is 42
+Q. Simplify each of the following: (i) 7*x^3*y +9*y*x^3 (ii) 12*a^2*b + 3*b*a^2
+Q. Subtract: (i) – 4x from 3y (ii) – 2x from – 5y
+Q. Simplify 2x + (5x – 3y)
+Q. Simplify xy [yz – zx – {yx – (3y – xz) – (xy – zy)}]
+Q. How much is x – 2y + 3z greater than 3x + 5y – 7?
+Q. How much is x2 − 2xy + 3y2 less than 2x2 − 3y2 + xy?
+Q. What should be added to xy – 3yz + 4zx to get 4xy – 3zx + 4yz + 7?
+Q. From the sum of 3x^2 − 5x + 2 and −5x^2 − 8x + 9 subtract 4x^2 − 7x + 9.
+Q. Add the following: x – 3y – 2z, 5x + 7y – 8z, 3x – 2y + 5z
+Q. Add the following: 7abc, -5abc, 9abc, -8abc
+Q. Identify the type of expressions: (i) x^2*y + x*y^2  (ii) 564*x*y  (iii) -8x + 4y
+Q. Simplify the following expressions: (i) (x + y + z)(x + y – z)
+Q. Add the following polynomials.   x + y + xy, x – z + yx, and z + x + xz
+Q. Simplify 7x^2*(3x – 9) + 3 and find its value for x = 4
+Q. Simplify 7x^2*(3x – 9) + 3 and find its value for x = 6
+Q. Subtract: 3xy + 5yz – 7xz + 1 from -4xy + 2yz – 2xz + 5xyz + 1
+Q. Subtract: (7x + 2) from (-6x + 8)
+Q. Factorize x^3 + x – 3x^2 – 3
+Q. Factorize a(a + b)^3 – 3a^2b*(a + b)
+Q. Factorize x^2 + y – xy – x
+Q. Factorize 6ab – b^2 + 12ac – 2bc
+Q. Factorize x(x – 2) (x – 4) + 4x – 8
+Q. If a + b + c = 9 and ab + bc + ca = 40, find a^2 + b^2 + c^2
+Q. If a^2 + b^2 + c^2 = 20 and a + b + c = 0, find ab + bc + ca.
+Q. If a + b + c = 0, then write the value of a^3 + b^3 + c^3.
+Q. If the equation 4x^2 + x(p+1) = 0 has exactly two equal roots, then one of the values of p is
+Q. The values of x and y satisfying the two equations 32x + 33y = 31 and   33x + 32y = 34
+
+# below questions are from number system from 87, 122
+
+Q. 3 × 10000 + 7 × 1000 + 9 × 100 + 0 ×10 + 4 is the same as
+Q. The expanded form of the number 9578 is
+Q. The largest 4-digit number, using any one digit twice, from digits 5, 9, 2 and 6 is
+Q. The largest 5-digit number having three different digits is
+Q. The smallest 4-digit number having three different digits is
+Q. Number of whole numbers between 38 and 68 is
+Q. The product of successor and predecessor of 999 is
+Q. A whole number is added to 25 and the same number is subtracted from 25. The sum of the resulting numbers is
+Q. The predecessor of 1 lakh is
+Q. Number of even numbers between 58 and 80 is
+Q. Sum of the number of primes between 16 to 80 and 90 to 100 is
+Q. The sum of the prime factors of 1729 is
+Q. The number of common prime factors of 75, 60, 105 is
+Q. LCM of 10, 15 and 20 is
+Q. 3 × 10000 + 9 × 1000 + 7 × 100 + 4 × 10 + 6
+Q. Arrange 4578, 4587, 5478, 5487  in descending order.
+Q.  (-10) × [(-13) + (-10)]
+Q. Taking today as zero on the number line, if the day before yesterday is 17 January, what is the date on 3 days after tomorrow?
+Q. The sum of two integers is 116. If one of them is -79, find the other integers
+Q. (-5) × [(-6) + 5]
+Q. Write the additive inverse of the following: −6/7
+Q.  Write any 5 rational numbers between −2/5 and 1/2.
+Q. If the product of any two rational numbers is 2 and one of them is 1/7, find the other?
+Q. Find the reciprocal of the following rational numbers: −3/4
+Q. What properties, the following expressions show? 23+45=45+23
+Q. What should be subtracted from −3/4 to get -4?
+Q. The multiplicative inverse of −3/5 is
+Q. What should be added to −3/4 to get -1?
+Q. Are the square roots of all positive integers irrational? If not, give an example of the square root of a number that is a rational number.
+Q. Add 2√2+ 5√3 and √2 – 3√3.
+Q. Simplify: (√3+√7) (√3-√7)
+Q. What is the product of a rational and an irrational number?
+Q. Find five rational numbers between 1 and 2.
+Q.  Find five rational numbers between 3/5 and 4/5.
+Q.  Given that HCF (306, 657) = 9, find LCM (306, 657).
+Q. If the HCF of 1261 and 1067 is 97 then find their L.C.M.
+
+below Questions are of mensuration from 126, 170
+
+Q.  Find the cost of fencing a square field of 175m at Rs.60 per metre.
+Q.  Find the diameter of a circle whose circumference is 88cm.
+Q.  Find area of rectangle whose length and breadth are 35 cm and 15 cm Find the perimeter of the rectangle.
+Q.  Find the cost of fencing a rectangular park 300 m long and 200 m wide at the rate of ₹4 per metre.
+Q.  How many trees can be planted at a distance of 6 metres each around a rectangular plot whose length is 120 m and breadth is 90 m?
+Q.   A rectangular piece of lawn is 55 m wide and 98 m long. Find the length of the fence around it.
+Q.   The side of a square field is 65 m. What is the length of the fence required all around it?
+Q.   Two sides of a triangle are 15 cm and 20 cm. The perimeter of the triangle is 50 cm. What is the third side?
+Q.   A square piece of land has each side equal to 100 m. If 3 layers of metal wire has to be used to fence it, what is the length of the wire needed?
+Q.    The dimensions of a photographs are 30 cm × 20 cm. What length of wooden frame is needed to frame the picture?
+Q. The length of a rectangular field is 100 m. If the perimeter is 300 m, what is its breadth?
+Q.  Find the cost of fencing a rectangular park of length 175 m and breadth 125 m at the rate of Rs 12 per meter
+Q. Find the perimeter of a regular hexagon with each side measuring 8 m.
+Q. A rectangular piece of land measure 0.7 km by 0.5 km. Each side is to be fenced with four rows of wires. What length of the wire is needed?
+Q. A rectangular carpet has area 120 m2 and perimeter 46 meters. The length of its diagonal is
+Q. One side of a square field is 179 m. Find the cost of raising a lawn on the field at the rate of Rs 1.50 per square metre.
+Q. A square lawn has a 2 m wide path surrounding it. If the area of the path is 136 m2, find the area of the lawn.
+Q. Find the area of a parallelogram with base 8 cm and altitude 4.5 cm.
+Q. The area of a rhombus is 28 m2. If its perimeter be 28 m, find its altitude.
+Q. The area of a triangle is 50 cm2. If the altitude is 8 cm, what is its base?
+Q. Find the area of a right angled triangle whose sides containing the right angle are of lengths 20.8 m and 14.7 m.
+Q. From a rectangular sheet of tin, of size 100 cm by 80 cm, are cut four squares of side 10 cm from each corner. Find the area of the remaining sheet.
+Q. The carpet for a room 6.6 m by 5.6 m costs Rs 3960 and it was made from a roll 70 cm wide. Find the cost of the carpet per meter
+Q. The parallel sides of a trapezium measure 12 cm and 20 cm. Calculate its area if the distance between the parallel lines is 15 cm.
+Q. Calculate the height of a cuboid which has a base area of 180 cm2 and volume is 900 cm3.
+Q. A square and a rectangle have the same perimeter. Calculate the area of the rectangle if the side of the square is 60 cm and the length of the rectangle is 80 cm.
+Q. The area of a rhombus is 16 cm^2 and the length of one of its diagonal is 4 cm. Calculate the length of other diagonal.
+Q. A cuboidal box of dimensions 1 m × 2 m × 1.5 m is to be painted except its bottom. Calculate how much area of the box has to be painted.
+Q. From a circular sheet of radius 4 cm, a circle of radius 3 cm is cut out. Calculate the area of the remaining sheet after the smaller circle is removed.
+Q.  The curved surface area of a right circular cylinder of height 14 cm is 88 sq.cm. Find the diameter of the base of the cylinder.
+Q. Curved surface area of a right circular cylinder is 4.4 sq.m. If the radius of the base of the cylinder is 0.7 m, find its height.
+Q.  In a hot water heating system, there is a cylindrical pipe of length 28 m and diameter 5 cm. Find the total radiating surface in the system.
+Q. The height of a cone is 16 cm and its base radius is 12 cm. Find the curved surface area and the total surface area of the cone. (Take π = 3.14)
+Q. Find the total surface area of a cone, if its slant height is 21 m and diameter of its base is 24 m.
+Q. The hollow sphere, in which the circus motorcyclist performs his stunts, has a diameter of 7 m. Find the area available to the motorcyclist for riding.
+Q. The radius of a spherical balloon increases from 7 cm to 14 cm as air is being pumped into it. Find the ratio of surface areas of the balloon in the two cases.
+Q. A river 3 m deep and 40 m wide is flowing at the rate of 2 km per hour. How much water will fall into the sea in a minute?
+Q. 5: A capsule of medicine is in the shape of a sphere of diameter 3.5 mm. How much medicine (in mm3) is needed to fill this capsule?
+Q. Calculate the amount of ice-cream that can be put into a cone with base radius 3.5 cm and height 12 cm.
+Q.  Find the number of solid spheres each of diameter 6 cm that can be made by melting a solid metal cylinder of height 45 cm and diameter 4 cm.
+Q.  2 cubes each of volume 64 cm3 are joined end to end. Find the surface area of the resulting cuboid.
+Q. A cone of height 24 cm and radius of base 6 cm is made up of modelling clay. A child reshapes it in the form of a sphere. Find the radius of the sphere.
+Q. Metallic spheres of radii 6 cm, 8 cm and 10 cm, respectively, are melted to form a single solid sphere. Find the radius of the resulting sphere.
+Q. The perimeter of a right triangle is 60 cm. Its hypotenuse is 25 cm. Find the area of the triangle
+Q. Two spheres of same metal weigh 1 kg and 7 kg. The radius of the smaller sphere is 3 cm. The two spheres are melted to form a single big sphere. Find the diameter of the new sphere.
+
+below questions are of "Cubic Equation" and "Quadratic Equation" from 174 to 200
+
+Q. Find the roots of quadratic equations by factorisation: √2x^2 + 7x + 5√2 = 0
+Q. Find the roots of quadratic equations by factorisation: 100x^2 – 20x + 1 = 0
+Q. Find two consecutive positive integers, the sum of whose squares is 365.
+Q. Solve the quadratic equation 2x^2 – 7x + 3 = 0
+Q. If x = 3 is one root of the quadratic equation x^2 – 2kx – 6 = 0, then find the value of k.
+Q. Find the value of p, for which one root of the quadratic equation px2 – 14x + 8 = 0 is 6 times the other.
+Q. Find the value of p so that the quadratic equation px(x – 3) + 9 = 0 has two equal roots.
+Q. Find the value(s) of k so that the quadratic equation x^2 – 4kx + k = 0 has equal roots.
+Q. Find the value of k for which the equation x^2 + k(2x + k – 1) + 2 = 0 has real and equal roots.
+Q. Find the value of p for which the roots of the equation px(x – 2) + 6 = 0, are equal.
+Q. Find the value(s) of k so that the quadratic equation 3x^2 – 2kx + 12 = 0 has equal roots.
+Q. Find the value of k for which the roots of the equation kx(3x – 4) + 4 = 0, are equal
+Q. Find the roots of the equation 2x^2 – 5x + 3 = 0
+Q. Solve the quadratic equation 2x^2 + x – 300 = 0
+Q. Solve the equation x^2 + 4x - 5 = 0.
+Q. Solve the quadratic equation 2x^2 + x – 528 = 0,
+Q. Find the discriminant of the equation: 3x^2 - 2x + 1/3 = 0.
+Q. Solve x^3 – 6x^2 + 11x – 6 = 0
+Q. If x = 2/3 and x = – 3 are roots of the quadratic equations ax^2 + lx + b = 0, find the values of a and b.
+Q. If -5 is a root of the quadratic equation 2x2 + px -15 = 0 and the quadratic equation p(x2 + x) + k = 0 has equal roots, find the value of k.
+Q. If x =-1/2 , is a solution of the quadratic equation 3x^2 + 2kx -3 = 0, find the value of K
+Q. If the quadratic equation px^2 – 2√5px + 15 = 0 has two equal roots, then find the value of p.
+Q. Solve for x: x^2 - (√3+1)x + √3 = 0
+Q. Solve for x: √3x^2 – 2√2x - 2√3 = 0
+Q. Solve for x: 2x^2 + 6√3 - 60 = 0
+Q. If x = – 2 is a root of the equation 3x^2 + 7x + p = 0, find k so that the roots of the equation x^2 + k(4x + k-1) + p = 0 are equal.
+Q. If x = 3 is root of the equation x^2 -x + k = 0, find the value of p so that the roots of the equation x^2 + k(2x + k +2)+ p = 0 are equal.
+
+below questions are of "statistics and probability" from 204 to 220
+
+Q. Find the mean, median and mode of these scores. 2, 3, 4, 5, 0, 1, 3, 3, 4, 3
+Q. Find the mean, median and mode of this data.    41, 39, 48, 52, 46, 62, 54, 40, 96, 52, 98, 40, 42, 52, 60
+Q. The following observations have been arranged in ascending order. If the median of the data is 63, find the value of x. 29, 32, 48, 50, x, x+2, 72, 78, 84, 95
+Q. Find the mode of 14, 25, 14, 28, 18, 17, 18, 14, 23, 22, 14, 18.
+Q. In a cricket match, a batswoman hits a boundary 6 times out of 30 balls she plays. Find the probability that she did not hit a boundary.
+Q. If P(E) = 0.05, what is the probability of ‘not E’?
+Q. It is given that in a group of 3 students, the probability of 2 students not having the same birthday is 0.992. What is the probability that the 2 students have the same birthday?
+Q.  A die is thrown once. Find the probability of getting a prime number
+Q.  A die is thrown once. Find the probability of getting a number lying between 2 and 6
+Q.  A die is thrown once. Find the probability of getting an odd number
+Q. One card is drawn from a well-shuffled deck of 52 cards. Find the probability of getting a king of red colour
+Q. One card is drawn from a well-shuffled deck of 52 cards. Find the probability of getting a face card
+Q. One card is drawn from a well-shuffled deck of 52 cards. Find the probability of getting a red face card
+Q. One card is drawn from a well-shuffled deck of 52 cards. Find the probability of getting the jack of hearts
+Q. One card is drawn from a well-shuffled deck of 52 cards. Find the probability of getting a spade
+Q. One card is drawn from a well-shuffled deck of 52 cards. Find the probability of getting the queen of diamonds
+Q. A jar contains 24 marbles, some are green, and others are blue. If a marble is drawn at random from the jar, the probability that it is green is ⅔. Find the number of blue balls in the jar.
+
+
+# ncert

@@ -1,0 +1,223 @@
+Q. prove that (1 – cos^2 A ) cosec^2 A = 1
+Q. prove that (1 + cot^2 A) sin^2 A = 1
+Q. prove that tan^2 θ x cos^2 θ = 1 − cos^2 θ
+Q. prove that cosec θ √(1 – cos^2 θ) = 1
+Q. prove that (sec^2 θ − 1)(cosec^2 θ − 1) = 1
+Q. prove that tan θ + 1/tan θ = sec θ x cosec θ
+Q. prove that cos θ/ (1 – sin θ) = (1 + sin θ)/ cos θ
+Q. prove that 1 – cos θ/ sin θ = sin θ/ 1 + cos θ
+Q. prove that sin^2 A + 1/(1 + tan^2 A) = 1
+Q. cos^2 θ + 1/(1 + cot^2 θ) = 1
+Q. The angle of elevation of the top of the building at a distance of 50 m from its foot on a horizontal plane is found to be 60°. Find the height of the building.
+Q. A string of a kite is 100 meters long and the inclination of the string with the ground is 60°. Find the height of the kite, assuming that there is no slack in the string.
+Q. From the top of the tower 30 m height a man is observing the base of a tree at an angle of depression measuring 30°. Find the distance between the tree and the tower.
+Q. A man wants to determine the height of a light house. He measured the angle at A and found that tan A = 3/4. What is the height of the light house if A is 40m from the base?
+Q. A ladder is leaning against a vertical wall makes an angle of 20° with the ground. The foot of the ladder is 3 m from the wall. Find the length of ladder.
+Q. A kite is flying at a height of 65 m attached to a string. If the inclination of the string with the ground is 31°,  find the length of string.
+Q. The length of a string between a kite and a point on the ground is 90 m. If the string makes an angle θ with the ground level such that tan θ = 15/8, how high will the kite be ?
+Q. When the angle of elevation of the sun is 32 degrees, a flagpole casts a shadow that is 10 feet long. In feet, how tall is the flagpole?
+Q. A ladder that is 125 feet long is resting against the side of a house at an angle of 70 degrees. In feet, how far up the side of the house does the ladder reach?
+Q. In right triangle ABC, where angle A measures 90 degrees, side AB measures 15 and side AC measures 36, what is the length of side BC?
+Q. A support wire is anchored 10 meters up from the base of a flagpole, and the wire makes a 25° angle with the ground. How long is the wire, w? Round your answer to two decimal places.
+Q. When the sun is 22° above the horizon, how long is the shadow cast by a building that is 60 meters high?
+Q. From the top of a lighthouse that sits 105 meters above the sea, the angle of depression of a boat is 19°. How far from the boat is the top of the lighthouse?
+Q. Angelina just got a new car, and she wants to ride it to the top of a mountain and visit a lookout point. If she drives 4000 meters along a road that is inclined 22° to the horizontal, how high above her starting point is she when she arrives at the lookout?
+Q. Two buildings with flat roofs are 50 feet apart. The shorter building is 40 feet tall. From the roof of the shorter building, the angle of elevation to the edge of the taller building is 48°. How high is the taller building?
+Q. Two buildings with flat roofs are 80 feet apart. The shorter building is 55 feet tall. From the roof of the shorter building, the angle of elevation to the edge of the taller building is 32°. How high is the taller building?
+Q. An observer 1.5 metres tall is 20.5 metres away from a tower 22 metres high. Determine the angle of elevation of the top of the tower from the eye of the observer
+Q. The area of a right triangle is 50. One of its angles is 45°. Find the lengths of the sides and hypotenuse of the triangle
+Q. In a right triangle ABC with angle A equal to 90°, find angle B and C so that sin(B) = cos(B).
+Q. In a right triangle ABC, tan(A) = 3/4. Find sin(A) and cos(A).
+Q. No. 4: Find the value of √3 cosec 20° – sec 20°.
+Q. Find the radian measures corresponding to the following degree measures:  25°
+Q. Find the radian measures corresponding to the following degree measures:  240°
+Q. Find the radian measures corresponding to the following degree measures:  520°
+Q. Find the values of the trigonometric function sin 765°
+Q. Find the values of the trigonometric function cosec (–1410°)
+Q.  If sin θ and cos θ are the roots of ax^2 – bx + c = 0, then the relation between a, b and c will be
+Q.  If tan A = 1/2 and tan B = 1/3, then the value of A + B is
+Q. The value of cos 1° cos 2° cos 3° … cos 179° is
+Q. The value of sin 50° – sin 70° + sin 10° is equal to
+
+# above questions are from trigonometry
+
+# below questions are from algebra
+
+Q. The number of rooms on the ground floor of a building is 12 less than the twice of the number of rooms on first floor. If the first floor has x rooms, how many rooms does the ground floor has?
+Q. Binny spend Rs a daily and saves Rs b per week. What is her income for two weeks?
+Q. Rahul scores 80 marks in English and x marks in Hindi. What is his total score in the two subjects?
+Q. Rohit covers x centimetres in one step. How much distance does he cover in y steps?
+Q. One apple weighs 75 grams and one orange weighs 40 grams. Determine the weight of x apples and y oranges
+Q. If there are x rows of chairs and each row contains x2 chairs. Determine the total number of chairs.
+Q.  One pencil costs Rs 2 and one fountain pen costs Rs 15. What is the cost of x pencils and y fountain pens?
+Q. If P = a^2 − b^2 + 2ab, Q = a^2 + 4b^2 − 6ab, R = b^2 + b, S = a^2 − 4ab and T = −2a^2 + b^2 – ab + a. Find P + Q + R + S – T.
+Q. What must be added to 12x^3 − 4x^2 + 3x − 7 to make the sum x^3 + 2x^2 − 3x + 2?
+Q. Show that: (3x + 7)^2 – 84x = (3x – 7)^2
+Q. Find the following product : (3x^2 – 4xy) (3x^2 – 3xy)
+Q. Find the following product : (y^2 + 12) (y^2 + 6)
+Q. Find the following product : (p^2 + 16) (p^2 – 1/4)
+Q. show that (a – b) (a + b) + (b – c) (b + c) + (c – a) (c + a) = 0
+Q. Evaluate  the following using identity: (2x – 1/x)^2
+Q. Evaluate  the following using identity:  (a – 0.1) (a + 0.1)
+Q. Evaluate  the following using identity:  (2x + y) (2x – y)
+Q. Simplify 175 x 175 +2 x 175 x 25 + 25 x 25
+Q. Simplify 322 x 322 – 2 x 322 x 22 + 22 x 22
+Q. If x + 1/x = 11, find the value of x^2 + 1/x^2.
+Q. If x – 1/x = -1, find the value of x^2 + 1/x^2
+Q. Simplify (−3x + y + z)^2
+Q. If a + b + c = 0 and a2 + b2 + c2 = 16, find the value of ab + bc + ca.
+Q. If a + b = 10 and ab = 21, find the value of a^3 + b^3
+Q. If a – b = 4 and ab = 21, find the value of a^3 – b^3.
+Q. Ten years ago, a father was twelve times as old as his son and ten years hence, he will be twice as old as his son will be then. Find their present ages
+Q. A sailor goes 8 km downstream in 40 minutes and returns in 1 hour. Determine the speed of the sailor in still water and the speed of the current.
+Q. A person rowing at the rate of 5km/h in still water takes thrice as much as time to go 40 km upstream as in going 40km downstream. Find the speed of the stream.
+Q. 2 men and 7 boys can do a piece of work in 4 days. The same work is done in 3 days by 4 men and 4 boys. How long would it take one man and one boy to do it?
+Q. If the product of two zeroes of polynomial 2x^3 + 3x^2 – 5x – 6 is 3, then find its third zero.
+Q. α, β, γ are zeroes of polynomial x^3 + px^2 + qx + 2 such that α.β + 1 = 0. Find the value of 2p + q + 5.
+Q. Find the product: (x – 3y) (x + 3y) (x^2 + 9y^2)
+Q. If x^2 – 3^x + 2 divides x^3 – 6x^2 + ax + b exactly, then find the value of ‘a’ and ‘b’
+Q. (3p^2 * qr^3) × (-4p^3 * q^2 * r^2) x (7p * q^3r) is equal to
+Q. 3m × (2m^2 – 5mn + 4n^2) is equal to
+Q. Volume of a rectangular box whose adjacent edges are 3x^2y, 4y^2z and 5z^2x respectively is
+Q. If x2 + y2 = 9 and xy = 8, then x + y is equal to
+Q. A mother is three times as old as her daughter. Six years ago, the mother’s age was six tines that of her daughter. How old are they now?
+Q. The numbers 2 , 3 , 5 and x have an average equal to 4. What is x?
+# below questions are from number system
+
+Q. Find the difference between the number 279 and that obtained on reversing its digits.
+Q. Form the largest and smallest 4-digit numbers using each of digits 7, 1, 0, 5 only once.
+Q.  A box of medicine tablets contains 2, 00, 000 tablets each weighing 20mg. What is the total weight of all the tablets in the box in grams? In kilograms?
+Q. Population of Sundarnagar was 2, 35, 471 in the year 1991. In the year 2001 it was found to have increased by 72, 958. What was the population of the city in 2001?
+Q. The town newspaper is published everyday. One copy has 12 pages. Everyday 11,980 copies are printed. How many pages are in all printed everyday? Every month?
+Q. A machine, on an average, manufactures 2825 screws a day. How many screws did it produce in the month of January 2006?
+Q. A famous cricket player has so far scored 6978 runs in test matches. He wishes to complete 10, 000 runs. How many more runs does he need?
+Q. Ravish has ₹ 78, 592 with him. He placed an order for purchasing 39 radio sets at ₹ 1234 each. How much money will remain with him after the purchase?
+Q. In an election, the successful candidate registered 5, 77, 570 votes and his nearest rival secured 3, 48, 685 votes. By what margin did the successful candidate win the election?
+Q.  To stitch a shirt 2m 15cm cloth is needed. Out of 40m cloth, how many shirts can be stitched and how much cloth will remain?
+Q. A vessel has 4 litre and 650ml of curd. In how many glasses, each of 25ml capacity, can it be distributed?
+Q. Medicine is packed in boxes, each such box weighing 4kg 500g. How many such boxes can be loaded in a van which cannot carry beyond 800kg?
+Q. The distance between the school and the house of a student is 1km 875m. Everyday she walks both ways between her school and home. Find the total distance covered by her in a week.
+Q. Find the smallest and greatest numbers which are rounded off to the nearest thousands as 9000.
+Q. 45 – [38 – {60 ÷ 3 – (6 – 9 ÷ 3) ÷ 3}]
+Q. Suman studies for 5 2/3 hours daily. She devotes 2 4/5 hours of her time for Science and Mathematics. How much time does she devote for other subject?
+Q. . A piece of wire is of length 12 3/4 m. If it is cut into two pieces in such a way that the length of one piece is 5 1/4 m, what is the length of other piece?
+Q. A rectangular sheet of paper is 12 1/2 cm long and 10 2/3 cm wide. Find its perimeter.
+Q. The cost of Mathematics book is Rs 25 3/4 and that of Science book is Rs 20 1/2. Which cost more and by how much?
+Q. Shikha plants 5 saplings in a row in her garden. The distance between two adjacent saplings is ¾ m. Find the distance between the first and the last sapling.
+Q. Ravish reads (1/3) part of a book in 1 hour. How much part of the book will he read in 2 1/5 hours?
+Q.  Lipika reads a book for 1 3/4 hours every day. She reads the entire book in 6 days. How many hours in all were required by her to read the book?
+Q. Find the area of a rectangular park which is 41 2/3 m along and 18 3/5 m broad.
+Q. If milk is available at Rs 17 3/4 per liter, find the cost of 7 2/5 liters of milk.
+Q. Sharada can walk 8 1/3 km in one hour. How much distance will she cover in 2 2/5 hours?
+Q. A sugar bag contains 30kg of sugar. After consuming (2/3) of it, how much sugar is left in the bag?
+Q. Each side of a square is 6 2/3 m long. Find its area.
+Q. There are 45 students in a class and (3/5) of them are boys. How many girls are there in the class?
+Q. The sum of the two numbers is 5/9. If one of the numbers is 1/3, find the other.
+Q. The sum of the two numbers is -1/3. If one of the numbers is -12/3, find the other.
+Q. The sum of the two numbers is -4/3. If one of the numbers is -5, find the other.
+Q. The smallest three digit number having three distinct digits is
+Q. The largest three digit number having distinct digits is
+Q. The difference between the greatest and smallest numbers which when rounded off a number to the nearest tens as 540, is
+Q. The sum of two integers is 116. If one of them is -79, find the other integers
+Q. What should be subtracted from −3/4 to get -4?
+
+below Questions are of mensuration
+
+Q. If the length of the diagonal of a square is 20 cm, then its perimeter is
+Q.  If the ratio between the length and the perimeter of a rectangular plot is 1: 3, then the ratio between the length and breadth of the plot is
+Q. A rectangular carpet has area 120 m2 and perimeter 46 meters. The length of its diagonal is
+Q.  If the sides of a square are halved, then its area
+Q. If the ratio of areas of two squares is 225 : 256, then the ratio of their perimeters is
+Q. The ratio of the areas of two squares, one having its diagonal double than the other,
+Q. If a diagonal of a rectangle is thrice its smaller side, then its length and breadth are in the ratio
+Q. The length of a rectangle is three times of its width. If the length of the diagonal is 8√10 m, then the perimeter of the rectangle is
+Q. The cost of putting a fence around a square field at Rs 2.50 per meter is Rs 200. The length of each side of the field is
+Q.  If the cost of fencing a rectangular field at Rs. 7.50 per meter is Rs. 600, and the length of the field is 24 m, then the breadth of the field is
+Q. The cost of fencing a rectangular field 34 m long and 18 m wide at Rs 2.25 per meter is
+Q. The sides of a rectangle are in the ratio 5: 4. If its perimeter is 72 cm, then its length is
+Q.  How many tiles with dimensions 5 cm and 12 cm will be needed to fit a region whose length and breadth are respectively: 100 cm and 144 cm
+Q.  How many tiles with dimensions 5 cm and 12 cm will be needed to fit a region whose length and breadth are respectively: 70 cm and 36 cm
+Q. One side of a square plot is 250 m, find the cost of levelling it at the rate of Rs 2 per square metre.
+Q. A marble tile measures 10 cm × 12 cm. How many tiles will be required to cover a wall of size 3 m × 4 m? Also, find the total cost of the tiles at the rate of Rs 2 per tile
+Q.  A marble tile measures 15 cm × 20 cm. How many tiles will be required to cover a wall of size 4 m × 6 m?
+Q. Area of a rectangle of breadth 17 cm is 340 cm2. Find the perimeter of the rectangle.
+Q. A rectangle has the area equal to that of a square of side 80 cm. If the breadth of the rectangle is 20 cm, find its length.
+Q. The base of a triangular field is three times its altitude. If the cost of cultivating the field at Rs 24.60 per hectare is Rs 332.10, find its base and height.
+Q. Find the area of figure formed by a square of side 8 cm and an isosceles triangle with base as one side of the square and perimeter as 18 cm.
+Q. A rectangular field is 48 m long and 20 m wide. How many right triangular flower beds, whose sides containing the right angle measure 12 m and 5 m can be laid in this field?
+Q. Find the area of a right angled triangle whose sides containing the right angle are of lengths 20.8 m and 14.7 m.
+Q. The area of a triangle is 50 cm2. If the altitude is 8 cm, what is its base?
+Q.  Find the altitude of a triangle whose area is 42 cm2 and base is 12 cm.
+Q. The base and corresponding altitude of a parallelogram are 10 cm and 12 cm respectively. If the other altitude is 8 cm, find the length of the other pair of parallel sides.
+Q. A room 5 m long and 4 m wide is surrounded by a verandah. If the verandah occupies an area of 22 m^2, find the width of the verandah.
+Q. A painting 8 cm long and 5 cm wide is painted on a cardboard such that there is a margin of 1.5 cm along each of its sides. Find the total area of the margin.
+Q.  From a rectangular sheet of tin, of size 100 cm by 80 cm, are cut four squares of side 10 cm from each corner. Find the area of the remaining sheet.
+Q. A hall 36 m long and 24 m broad allowing 80 m^2 for doors and windows, the cost of papering the walls at Rs 8.40 per m^2 is Rs 9408. Find the height of the hall.
+Q.  If the area of a trapezium is 28 cm2 and one of its parallel sides is 6 cm, find the other parallel side if its altitude is 4 cm.
+Q. The area of a trapezium is 384 cm2. Its parallel sides are in the ratio 3:5 and the perpendicular distance between them is 12 cm. Find the length of each one of the parallel sides.
+Q. The area of a trapezium is 91 cm^2 and its height is 7 cm. If one of the parallel sides is longer than the other by 8 cm, find the two parallel sides.
+Q. The cross-section of a canal is a trapezium in shape. If the canal is 10 m wide at the top 6 m wide at the bottom and the area of cross-section is 72 m2 determine its depth.
+Q. Top surface of a table is trapezium in shape. Find its area if its parallel sides are 1 m and 1.2 m and perpendicular distance between them is 0.8 m.
+Q. Each edge of a cube is increased by 50%. Find the percentage increase in the surface area of the cube.
+Q. A cuboidal water tank is 6 m long, 5 m wide and 4.5 m deep. How many liters of water can it hold?
+Q.  A cuboidal vessel is 10 m long and 8 m wide. How high must it be made to hold 380 cubic meters of a liquid?
+Q.  Find the cost of digging a cuboidal pit 8 m long, 6 m broad and 3 m deep at the rate of Rs 30 per m3.
+Q.  A river 3 m deep and 40 m wide is flowing at the rate of 2 km per hour. How much water will fall into the sea in a minute?
+Q. How many balls, each of radius 1 cm, can be made from a solid sphere of lead of radius 8 cm? How many balls, each of radius 1 cm, can be made from a solid sphere of lead of radius 8 cm?
+Q. 2.2 cubic dm of brass is to be drawn into a cylindrical wire of 0.25 cm in diameter. Find the length of the wire.
+Q. What length of a solid cylinder 2 cm in diameter must be taken to recast into a hollow cylinder of length 16 cm, external diameter 20 cm and thickness 2.5 mm?
+Q. How many spherical lead shots, each of diameter 4.2 cm, can be obtained from a solid rectangular lead piece with dimensions 66 cm × 42 cm × 21 cm?
+Q. How many spherical lead shots of diameter 4 cm can be made out of a solid cube of lead whose edge measures 44 cm?
+
+below questions are of "Cubic Equation" and "Quadratic Equation"
+
+Q. The product of two consecutive positive integers is 306. Form the quadratic equation to find the integers, if x denotes the smaller integer.
+Q. Solve the  quadratic equation by factorisation: (x – 4)(x + 2) = 0
+Q. Solve the  quadratic equation by factorisation: (2x + 3) (3x – 7) = 0
+Q. Solve the  quadratic equation by factorisation: 3x^2 – 14x – 5 = 0
+Q. Find the roots of equation 9x^2 – 3x – 2 = 0.
+Q. Find the roots of the quadratic equation by the method of completing the square. x^2 – 4√2 x + 6 = 0
+Q. Find the values of k for which the following equations have real roots kx(x – 2) + 6 = 0
+Q. Find the values of k for which the following equations have real roots x^2 – 4kx + k = 0
+Q. Find the least positive value of k for which the equation x^2 + kx + 4 = 0 has real roots.
+Q. Find two consecutive numbers whose squares have the sum of 85.
+Q. Divide 29 into two parts so that the sum of the squares of the parts is 425.
+Q. Two squares have sides x cm and (x + 4) cm. The sum of their areas is 656 cm2. Find the sides of the squares.
+Q. The sum of the two numbers is 48, and their product is 432. Find the numbers.
+Q.  If an integer is added to its square, the sum is 90. Find the integer with the help of a quadratic equation.
+Q.  Find the whole number which, when decreased by 20, is equal to 69 times the reciprocal of the number.
+Q. Find two consecutive natural numbers whose product is 20.
+Q. The product of Ramu’s age (in years) five years ago and his age (in years) nine years later is 15. Determine Ramu’s present age.
+Q. The hypotenuse of a right triangle is 25 cm. The difference between the lengths of the other two sides of the triangle is 5 cm. Find the lengths of these sides.
+Q. The perimeter of the rectangular field is 82 m, and its area is 400 m^2. Find the breadth of the rectangle.
+Q. The length of the hall is 5 m more than its breadth. If the area of the floor of the hall is 84 m^2, what are the length and breadth of the hall?
+Q. A piece of cloth costs Rs. 35. If the piece were 4 m longer and each metre costs Rs. 1 less, the cost would remain unchanged. How long is the piece?
+Q. A dealer sells an article for Rs. 24 and gains as much per cent as the cost price of the article. Find the cost price of the article.
+Q. If the list price of a toy is reduced by Rs. 2, a person can buy 2 toys more for Rs. 360. Find the original price of the toy.
+Q. Rs. 9000 was divided equally among a certain number of persons. Had there been 20 more persons, each would have got Rs. 160 less. Find the original number of persons.
+Q. Out of a group of swans, 7/2 times the square root of the total number are playing on the share of a pond. The two remaining ones are swinging in the water. Find the total number of swans.
+Q. Find the roots of equation:  6x^2 + 11x + 3 = 0
+Q. Find the roots of equation: 5x^2 – 3x – 2 = 0
+
+below questions are of "statistics and probability"
+
+Q. Find the median. 715, 724, 725, 710, 729, 745, 694, 699, 696, 712, 734, 728, 716, 705, 719.
+Q. The probability that it will rain tomorrow is 0.85. What is the probability that it will not rain tomorrow?
+Q.  A and B throw a pair of dice. If A throws 9, find B’s chance of throwing a higher number
+Q. Two unbiased dice are thrown. Find the probability that the total of the numbers on the dice is greater than 10.
+Q. In a lottery of 50 tickets numbered 1 to 50, one ticket is drawn. Find the probability that the drawn ticket bears a prime number.
+Q. An urn contains 10 red and 8 white balls. One ball is drawn at random. Find the probability that the ball drawn is white.
+Q. What is the probability that a number selected from the numbers 1, 2, 3, …, 15 is a multiple of 4?
+Q. A bag contains 6 red, 8 black and 4 white balls. A ball is drawn at random. What is the probability that the ball drawn is not black?
+Q.  In a lottery, there are 10 prizes and 25 blanks. What is the probability of getting a prize?
+Q.  If the probability of winning a game is 0.3, what is the probability of losing it?
+Q. Find the probability that a number selected from the number 1 to 25 is not a prime number when each of the given numbers is equally likely to be selected.
+Q.  It is given that in a group of 3 students, the probability of 2 students not having the same birthday is 0.992. What is the probability that the 2 students have the same birthday?
+Q.  A bag contains 3 red balls and 5 black balls. A ball is drawn at random from the bag. What is the probability that the ball drawn is (i) red (ii) not red
+Q. describe the sample space for the indicated experiment; A coin is tossed three times.
+Q. describe the sample space for the indicated experiment; A coin is tossed, and a die is thrown.
+Q. If 2/11 is the probability of an event, what is the probability of the event ‘not A’.
+Q.  If we have 15 boys and 5 girls in a class, which carries a higher probability? Getting a copy belonging to a boy or a girl. Can you give it a value?
+
+
+# rd sharma
