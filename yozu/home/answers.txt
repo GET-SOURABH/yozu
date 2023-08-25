@@ -1,0 +1,220 @@
+Ans. 2
+Ans. 0
+Ans. +2,-2
+Ans. 1/x
+Ans. 1/x*y
+Ans. 0
+Ans. 5/2
+Ans. 3
+Ans. 7/2
+Ans. 3/2
+Ans. 13/6
+Ans. 2
+Ans. 9
+Ans. 3/4
+Ans. √3
+Ans. sin(A) = 7/25, cos(A) = 24/25
+Ans. 1
+Ans. 1
+Ans. 0
+Ans. 0
+Ans. A = 108° / 3
+Ans. A = 22°
+Ans. sin 67° + cos 75° is also expressed as cos 23° + sin 15°
+Ans. 1
+Ans. 1
+Ans. 2
+Ans. cos A
+Ans. tan^2 (A)
+Ans. 38°
+Ans. A = 31°
+Ans. Trigonometry
+Ans. 0
+Ans. 12/5
+Ans. 1
+Ans. 1
+Ans. 2
+Ans. 2
+Ans. 8/√3
+Ans. 3
+Ans. 30
+
+# above answers are from trigonometry
+
+# below answers are from algebra
+
+Ans. 8
+Ans. 4
+Ans. 27
+Ans. 14
+Ans. 8b – 32
+Ans. 8*x^2*y – 4*x^2 – 7*y^2 + 8*x*y^2
+Ans. 2x^4
+Ans. 6*a^6*b^6
+Ans. 2 x (x + 4)
+Ans. 3x + 5 – y
+Ans. 5
+Ans. (i) 16*x^3*y (ii) 15*a^2*b
+Ans. (i) 3y + 4x (ii) –5y + 2x
+Ans. 7x – 3y
+Ans. xy + 2xz – 3y
+Ans. –2x – 7y + 3z + 7
+Ans. x^2 – 6y^2 + 3xy
+Ans. 3xy – 7zx + 7yz + 7
+Ans.  –6x^2 – 6x + 2
+Ans.  9x + 2y – 5z
+Ans. 3abc
+Ans. (i) x^2*y + x*y^2 = Binomial (ii) 564*x*y = Monomial  (iii) -8x + 4y = Binomial
+Ans. x^2 + xy – xz + yx + y^2 – yz + zx + zy – z^2
+Ans. 2xy + xz + 3x + y
+Ans. 339
+Ans. 2271
+Ans. 5xz + 5xyz - 7xy -3yz
+Ans. -13x + 6
+Ans. (x – 3) (x^2 + 1)
+Ans. a(a + b) (a^2 + b^2 – ab)
+Ans. (x – 1) (x – y)
+Ans. (b + 2c) (6a – b)
+Ans. (x – 2)^3
+Ans. 1
+Ans. -10
+Ans. 3abc
+Ans. 3
+Ans. x = 2, y = - 1
+
+# below questions are from number system
+
+Ans. 37904
+Ans. 9 × 1000 + 5 × 100 + 7 × 10 + 8 × 1
+Ans. 9965
+Ans. 99987
+Ans. 1002
+Ans. 29
+Ans. 998000
+Ans. 50
+Ans. 99999
+Ans. 10
+Ans. 17
+Ans. 39
+Ans. 2
+Ans. 60
+Ans. 39746
+Ans. 5487, 5478, 4587, 4578
+Ans. 230
+Ans. 23rd January
+Ans. 195
+Ans. 5
+Ans. 6/7
+Ans. −2/5 can be written as −8/20 and 1/2  as 10/20. rational numbers are: −7/20,−6/20,−5/20,−4/20,−3/20,−2/20,−1/20,0,1/20,2/20,3/20,4/20.
+Ans. 14
+Ans. −4/3
+Ans. commutative property of addition of rational numbers.
+Ans. 13/4
+Ans. −5/3
+Ans. – 1/4
+Ans. No, since the square root of a positive integer 16 is equal to 4. Here, 4 is a rational number.
+Ans. 3√2 + 2√3
+Ans.  -4
+Ans. Always an irrational number
+Ans. We can  write the numbers with denominator 6;  [1=6/6 , 2=12/6] five rational numbers are : 7/6, 8/6, 9/6, 10/6, 11/6
+Ans. (3/5) × (6/6) = 18/30 , (4/5) × (6/6) = 24/30; five rational numbers will be: 19/30, 20/30, 21/30, 22/30, 23/30
+Ans. HCF × LCM = Product of the two given numbers So, 9 × LCM = 306 × 657; LCM = 22338
+Ans. HCF × LCM = Product of the two given numbers So, 97 × LCM = 1261 x 1067; LCM = 13871
+
+below solutions are of mensuration
+
+Ans. Given:Perimeter of square field =175m ; Cost of fencing per metre = 60;  total cost of fencing will be 175×60 = 10,500
+Ans. Circumference of a circle = 88cm = πd ; d = 88/π = (88/22)×7 = 4×7 = 28cm
+Ans. area: 525 cm^2; perimeter: 100 cm
+Ans. 4000
+Ans. 70
+Ans. 306 m
+Ans. 260 m
+Ans. 15 cm
+Ans. 1200 m.
+Ans.  100 cm
+Ans.  50 m
+Ans. Rs 7200
+Ans. 48 m
+Ans. 9.6 km.
+Ans. 17 m
+Ans. Rs. 48061.50
+Ans. 225 m^2
+Ans. 36 cm^2
+Ans.  4 m
+Ans. 12.5 cm
+Ans. 152.88 m^2
+Ans. 7600 cm^2
+Ans. Rs. 75
+Ans. 240  cm^2
+Ans.  5 cm
+Ans.  3200 cm^2
+Ans. 8 cm
+Ans. 11 m^2
+Ans. 7π cm^2
+Ans. 2 cm
+Ans.  1 m
+Ans. 4.4 m^2
+Ans. 1205.76 cm^2
+Ans. 1244.57 m^2
+Ans. 154 m^2
+Ans. 1 : 4
+Ans. 4000 m^3 = 4000000 L
+Ans. 22.458 mm^3
+Ans. 154 cm3
+Ans. n = 5
+Ans. 160 cm^2
+Ans. 6 cm
+Ans. r = 12 cm
+Ans. 150 cm^2
+Ans. 12 cm
+
+below questions are of "Cubic Equation" and "Quadratic Equation"
+
+Ans. x = -5/√2 or x = -√2
+Ans. x = 1/10 or x = 1/10
+Ans. x^2 + (x + 1)2 = 365;  x = – 14 or x = 13
+Ans. x = 12/4 or 2/4
+Ans. k = 1/2
+Ans. p = 3
+Ans. p = 4
+Ans. k =  1/4
+Ans. k = 2
+Ans.  P = 6
+Ans. ±6
+Ans. k = 3
+Ans. 3/2 and 1 are the roots of the given equation
+Ans. 12 and -12.5 are two roots of the given equation.
+Ans. x=-5 & x=1
+Ans. x=16 or x=-33/2
+Ans. D = 0
+Ans. The roots of the equation are x = 1, 10 and 12.
+Ans. a = 3, b = -6
+Ans. k = 7/4
+Ans. k = -9/4
+Ans. p = 3
+Ans. x = 1 or x = √3
+Ans. x = √6 or x = √2/√3
+Ans. x = -5√3 or x = 2/√3
+Ans. k = -1 and k = 2/3
+Ans. p = 12
+
+below answers are of "statistics and probability"
+
+Ans. mean: 2.8, median: 3, Mode: 3
+Ans. mean: 54.8, median: 52, Mode: 52
+Ans. x = 62
+Ans. Mode = 14
+Ans. Probability she did not hit a boundary = 24/30 = 4/5
+Ans. P(not E) = 0.95
+Ans. The probability that the 2 students have the same birthday is 0.008
+Ans. P (getting a prime number) = 3/6 = 1/2 = 0.5
+Ans. P (getting a number between 2 and 6) = 3/6 = 1/2 = 0.5
+Ans. P (getting an odd number) = 3/6 = 1/2 = 0.5
+Ans. P (getting a king of red colour) = 2/52 = 1/26 = 0.038
+Ans. P (getting a face card) = 12/52 = 3/13 = 0.23
+Ans. P (getting a king of red colour) = 6/52 = 3/26 = 0.11
+Ans. P (getting a king of red colour) = 1/52 = 0.019
+Ans. P (getting a king of red colour) = 13/52 = 1/4 = 0.25
+Ans. P (getting a king of red colour) = 1/52 = 0.019
+Ans. the total green marbles = 16 And, the total blue marbles = 24-16 = 8

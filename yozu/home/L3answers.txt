@@ -1,0 +1,220 @@
+Ans: Hint: [ sin^2 A + cos^2 A = 1 ⇒ 1 – sin^2 A = cos^2 A]
+Ans: Hint: By using the identity; cosec^2 A – cot^2 A = 1 ⇒ cosec^2 A = cot^2 A + 1
+Ans: Hint: sin^2 θ + cos^2 θ = 1
+Ans: Hint: Using identity, sin^2 θ + cos^2 θ = 1  ⇒ sin^2 θ = 1 – cos^2 θ
+Ans: Hint: Using identities, (sec^2 θ − tan^2 θ) = 1 and (cosec^2 θ − cot^2 θ) = 1
+Ans: Hint: [ sec^2 θ − tan^2 θ = 1]
+Ans: Hint: sin^2 θ + cos^2 θ = 1
+Ans: Hint: sin^2 θ + cos^2 θ = 1
+Ans: Hint: sec^2 θ − tan^2 θ = 1 and sin^2 θ + cos^2 θ = 1
+Ans: Hint: cosec^2 θ − cot^2 θ = 1 and sin^2 θ + cos^2 θ = 1
+Ans: the height of the building is 86.6 m.
+Ans: the height of kite from the ground 50√3 m.
+Ans: the distance between the tree and the tower is 51.96 m.
+Ans: the height of the light house is 30 m.
+Ans: the length of the ladder is about 3.193 m
+Ans: the length of the string is 126.2 m.
+Ans: the height of the tower is 79.41 m.
+Ans: 6.25
+Ans: 117.46
+Ans: 39
+Ans: 23.81 meters
+Ans: 150 meters
+Ans: 318.18 meters
+Ans: 1480 meters
+Ans: 95.5 feet
+Ans: 104.6 feet
+Ans: the angle of elevation is 45°.
+Ans: H = 10 √(2)
+Ans: The two sides are equal in length means that the triangle is isosceles and angles B and C are equal in size of 45°
+Ans: 4/5
+Ans: 4
+Ans: 5⊼/36
+Ans: 4⊼/3
+Ans: 26⊼/9
+Ans: 1/√ 2
+Ans: 2
+Ans: a^2 – b^2 + 2ac = 0
+Ans: π/4
+Ans: 0
+Ans: 0
+
+# above answers are from trigonometry
+
+# below answers are from algebra
+
+Ans:  the rooms on the ground floor is y = 2x – 12
+Ans: the income of Binny for two weeks is Rs 14a + 2b
+Ans: the total score of Rahul in two subjects is x + 80
+Ans: Rohit covers xy cm in y steps
+Ans: the weight of x apples and y oranges is (75x + 40y) g.
+Ans: the total number of chairs is x^3
+Ans: the cost of x pencils and y fountain pens is Rs (2x + 15y)
+Ans: 5a^2 + 3b^2– 7ab – a + b
+Ans: – 11x^3 + 6x^2 – 6x + 9
+Ans: Hint: (a + b)^2 = a^2 + b^2 + 2ab
+Ans: 9x^4 – 21x^3y + 12x^2y^2
+Ans: y^4 + 18y^2 + 72
+Ans: p^4 + 63/4p^2 – 4
+Ans: using the identity (a – b) (a + b) = a^2 – b^2
+Ans: 4x^2 + 1/x^2 – 4
+Ans: (a)^2 – 0.01
+Ans: 4x^2 – y^2
+Ans: 40000, hint:  a^2 + b^2 + 2ab = (a+b)^2
+Ans: 90000, hint: a^2 + b^2 - 2ab = (a-b)^2
+Ans: 119
+Ans: 3
+Ans: 9x^2 + y^2 + z^2 − 6xy + 2yz − 6xz
+Ans: ab + bc + ca = -8
+Ans: a^3 + b^3 = 370
+Ans: a^3 – b^3 = 316
+Ans: the present age of the father is 34 years, and the present age of the son is 12 years.
+Ans: the speed of the sailor is 10km/hr, and the speed of the current is 2km/hr.
+Ans: the speed of the stream is 2.5 km/hr.
+Ans: The time required for a man alone to finish the work is 15 days, and the time required for a boy alone to finish the work is 60 days.
+Ans: 1
+Ans: 0
+Ans: (x^4 – 81y^4)
+Ans: a = 11 and b = – 6
+Ans: -84 * p^6 * q^6 * r^6
+Ans: 6m^3 – 15m^2n + 12mn^2
+Ans: 60x^3y^3z^3
+Ans: ±5
+Ans: the daughter’s is 10 years old and the mother is 30 years old.
+Ans: x = 6
+# below answers are from number system
+
+Ans: 693
+Ans: the largest and smallest 4-digit numbers using each of digits 7, 1, 0, 5 only once is 7510 and 1057
+Ans:  the total weight of all the tablets in the box is 4000g or 4kg
+Ans: the population of the city in 2001 is 3, 08, 429
+Ans: 1, 43, 760 pages are printed every day and 43, 12, 800 pages are printed every month
+Ans:  the machine produced 87, 575 screws in the month of January 2006
+Ans: 3, 022 runs are needed by the cricket player to complete 10, 000 runs.
+Ans: ₹ 30466 money will remain with Ravish after the purchase
+Ans: the margin of victory for the successful candidate is 2, 28, 885.
+Ans: 18 shirts can be stitched and 1m 30cm cloth will remain.
+Ans:  186 glasses each of 25ml capacity of curd can be distributed.
+Ans: 177 boxes can be loaded in a van which cannot carry beyond 800kg.
+Ans:  the total distance covered by her in a week is 26km 250m.
+Ans: The smallest and greatest number which is rounded off to the nearest thousands as 9000 is 8,500 and 9,499
+Ans: 26
+Ans: x = (43/15)
+Ans: x = (15/2)
+Ans: (139/3)
+Ans: the cost of Mathematics book is more than cost of Science book by 5 1/4
+Ans: The distance between them is 3m
+Ans: (11/15) part of the book
+Ans:  10 1/2 hours
+Ans: 775 m^2
+Ans: Rs 131 7/20
+Ans: 20 km
+Ans: 10kg
+Ans: 44 4/9 m^2
+Ans: 18 girls
+Ans: the other number is 2/9
+Ans: the other number is 11/3
+Ans: the other number is 11/3
+Ans: 102 is the smallest three digit number.
+Ans: 987
+Ans: 9
+Ans: 195
+Ans: 13/4
+
+below answers are of mensuration
+
+Ans: 40√2cm
+Ans: 2: 1
+Ans: 17 m
+Ans: becomes one fourth
+Ans: 15 : 16
+Ans: 4: 1
+Ans: 2√2: 1
+Ans: 64 m
+Ans: 20 m
+Ans: 16 m
+Ans: Rs 234
+Ans:  20 cm
+Ans: No. of tiles which is required to cover the region = 14400/60 = 240 tiles
+Ans: No. of tiles which is required to cover the region = 2520/60 = 42 tiles
+Ans: the cost of levelling is Rs 125000.
+Ans: 1000 number of tiles are required to cover the wall and the cost is Rs 2000.
+Ans: 800 tiles are required to cover a wall of size 4 m × 6 m.
+Ans: the perimeter of the rectangle is 74 cm.
+Ans: the length of the rectangle is 320 cm.
+Ans: Height of the triangular field = 300 m and Base of the triangular field = 3 x 300 m = 900 m
+Ans: 76 cm^2
+Ans: Number of right triangular flower beds = 32
+Ans: 152.88 m^2
+Ans: 12.5 cm
+Ans: 7 cm
+Ans: the length of the other pair of the parallel sides = 15 cm.
+Ans: width of the veranda = x = 1 m
+Ans: 30 cm^2
+Ans: 7600 cm2
+Ans: the height of the wall would be 10 m.
+Ans: Length of the other parallel side of trapezium = 8 cm
+Ans: Length of one parallel side of trapezium = 3x = 3×8 = 24 cm And, Length of other parallel side of trapezium = 5x = 5×8 = 40 cm
+Ans: Length of one parallel side of trapezium = 9 cm And, Length of other parallel side of trapezium = x+8 = 9+8 = 17 cm
+Ans: The depth is 9m.
+Ans: Area of trapezium = 0.88m^2
+Ans: percentage increase in the surface area of a cube is 125.
+Ans: the tank can hold 1,35,000 liters of water.
+Ans: height of the vessel should be 4.75 m.
+Ans: Rs. 4320
+Ans: in 1 minute 4000000 litres of water will fall in the sea.
+Ans: 512 balls can be made of radius 1 cm each with a solid sphere of radius 8 cm.
+Ans: the length of the cylindrical wire drawn is 448 m.
+Ans: the length of the solid cylinder is 79.04 cm.
+Ans: 1500
+Ans: 2541
+
+below answers are of "Cubic Equation" and "Quadratic Equation"
+
+Ans: the required quadratic equation is x2 + x – 306 = 0
+Ans: the roots of the given quadratic equation are 4 and -2, respectively.
+Ans:  the roots of the given quadratic equation are x = -3/2 and x = 7/3, respectively.
+Ans: the roots of the given quadratic equation are 5 and x = – 1/3, respectively.
+Ans: the roots of the given quadratic equation are x = 2/3 and x = -1/3, respectively.
+Ans: the roots of the given quadratic equation are x = 3√2 and x = √2.
+Ans: The value of k should be greater than or equal to 6 to have real roots.
+Ans: The value of k should be greater than or equal to 1/4 to have real roots.
+Ans: the least value of k is 4 for the given equation to have real roots.
+Ans: the consecutive numbers whose sum of squares can be (6, 7) or (-7, -6).
+Ans: the two parts whose sum of the squares is 425 are 13 and 16, respectively
+Ans: the side of the other square is 20 cm.
+Ans: the two numbers are 12 and 36, respectively.
+Ans: the values of the integer are 9 and -10, respectively.
+Ans: the whole number is 23.
+Ans: the two consecutive natural numbers are 4 and 5, respectively.
+Ans: the present age of Ramu is 6 years.
+Ans: he length of the side of the right triangle is 15 cm, and other side is 20 cm.
+Ans:  the breadth of the rectangle can be either 16 m or 25 m, respectively.
+Ans: the length and breadth of the rectangle are 7 and 12, respectively.
+Ans: the piece of cloth was 10 m long.
+Ans: the cost price of the article is Rs 20
+Ans: the original price of the toy is Rs 20.
+Ans: the original number of people = 25.
+Ans: the total number of swans is 16.
+Ans: the roots of the given quadratic equation are x = -3/2 and x = -1/3, respectively.
+Ans: the roots of the given quadratic equation are x = 1 and x = -2/5, respectively.
+
+below answers are of "statistics and probability"
+
+Ans: 716 is the median of the data.
+Ans: the probability that it will not rain tomorrow is = 0.15
+Ans: the probability of getting the total of numbers on the dice greater than 9 = 6/36 = 1/6
+Ans: the probability of getting the total of numbers on the dice greater than 10 = 3/36 = 1/12
+Ans: the probability of getting a prime number on the ticket = 15/50 = 3/10
+Ans: the probability of drawing a white ball from the urn is 8/18 = 4/9
+Ans: the probability of selecting a number which a multiple of 4 is 3/15 = 1/5
+Ans: the probability of drawing a ball which is not black = 10/18 = 5/9
+Ans: the probability of winning a prize = 10/35 = 2/7
+Ans: the probability of losing the game is 0.7
+Ans: the probability of selecting a number which is not prime is 16/25.
+Ans: the probability that the 2 students have the same birthday is 0.008.
+Ans: (i) Let E = The event of getting a red ball P(E) = 3/8 , (ii) Let E' = The event of getting no red ball = 5/8
+Ans: the sample space is S = {HHH, THH, HTH, HHT, TTT, HTT, THT, TTH}
+Ans: S={(H,1),(H,2),(H,3),(H,4),(H,5),(H,6),(T,1),(T,2),(T,3),(T,4),(T,5),(T,6)}
+Ans: 9/11
+Ans: P(A) = 15/20 = 3/4 And, P(B) = 5/20 = 1/4
