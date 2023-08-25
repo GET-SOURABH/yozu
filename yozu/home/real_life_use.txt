@@ -1,0 +1,91 @@
+**Polynomial Equations:**
+-  Sports: Coaches and athletes use polynomial equations to analyze performance data and track progress.
+-  Loan payments: Monthly loan payments can be calculated using polynomial equations to determine the amount paid over time.
+-  Distance and time: When you travel at a constant speed, the distance covered over time can be represented using a polynomial equation.
+-  Budgeting: Creating a budget involves using polynomial equations to track income, expenses, and savings
+-  Designing graphics and animations in computer requires polynomial equations.
+-   Projectile motion: When an object is launched into the air with an initial velocity, its path can be described using quadratic equations.
+-   Engineering and physics: Quadratic equations are used in calculating the trajectories of moving objects, such as the path of a rocket
+-   Architecture: Architects use quadratic equations to design structures with parabolic shapes, such as bridges and arche
+-   Finance:  quadratic equations can be used to calculate the time required to pay off a loan or the growth of an investment over time.
+-   Medicine:  quadratic equations are used to model drug concentration over time in the body.
+-   Economics: Quadratic equations are employed to model and analyze profit, cost, and revenue functions in business and economics.
+-  Electricity usage: Utility bills often involve polynomial equations to calculate electricity usage over a period.
+-  Fitness: Modeling weight loss or muscle gain progress often involves using polynomial equations to analyze data.
+-  Gardening: When determining the area to plant crops or flowers, polynomial equations help calculate the required space.
+-  Construction: Architects and engineers use polynomial equations to design and construct buildings, bridges, and other structures.
+-  Shopping discounts: Calculating discounts during sales or using coupons often involves polynomial equations.
+-  Temperature conversions: Converting between Celsius and Fahrenheit temperatures involves polynomial equations.
+-  Profit and loss calculations: Using polynomial equations to calculate profit or loss in business scenarios.
+
+
+**Mensuration:**
+-  Calculating the area and perimeter of a field for farming purposes.
+-  Determining the volume of a swimming pool for water capacity estimation.
+-  Measuring the surface area of a 3D printed object for material usage.
+-  Estimating the amount of paint required to cover the walls of a room.
+-  Calculating the amount of carpet needed for a room's flooring.
+-  Determining the capacity of a water tank for storage planning.
+-  Finding the surface area of a box or a gift box to wrap it with paper.
+-  Calculating the amount of fencing needed to enclose a garden.
+-  Measuring the dimensions of a picture frame to fit a specific photo or artwork.
+-  Measuring the dimensions of a piece of fabric for sewing or crafting projects.
+-  Calculating the dimensions of packaging boxes for shipping products.
+-  Finding the amount of fabric needed for making clothes.
+
+**Statistics and Probability:**
+-  Weather forecasts:  uses probability to predict the likelihood of rain, snow, or sunny weather.
+-  Predicting stock market trends using time series analysis.
+-  Calculating the average temperature for weather forecasting.
+-  Analyzing the performance of athletes in sports using statistics.
+-  Determining the probability of winning in casino games.
+-  Analyzing medical data to identify patterns in patient outcomes using statistics.
+-  Surveys and Polls:  uses statistics to gather and analyze data to make predictions about public opinion..
+-  Analyzing test scores to assess student performance using statistics.
+-  Calculating the probability of winning a lottery.
+-  Analyzing traffic patterns to improve transportation routes.
+-  Predicting machine failures in industrial settings using data analysis.
+-  Internet search engines: Probability is used to rank search results and show the most relevant information to users.
+
+**Trigonometry:**
+-  Calculating the height of a mountain using trigonometric ratios.
+-  Determining the distance across a river using trigonometry.
+-  Analyzing the angle of elevation to assess the height of a building.
+-  Calculating the size of shadows cast by objects at different times of the day.
+-  analyzing the angles and heights in architecture engineering.
+-  Determining the height of a tree using trigonometric concepts.
+-  Calculating the distance between two ships using angles of elevation.
+-  Analyzing the angles and distances in satellite communication.
+-  Predicting sea waves heights and timings using trigonometric functions.
+-  Navigation: Trigonometry is used in navigation and map reading to determine distances and angles between locations.
+-  Music: Trigonometry is used in music to study sound waves and calculate frequencies.
+-  Sports: Trigonometry is used in sports like baseball and soccer to calculate angles for throwing or shooting.
+
+**Number System:**
+-  Converting decimal numbers to binary for computer programming (binary language).
+-  Money transactions: We use numbers to represent currency values and make financial transactions.
+-  Converting currency values when traveling abroad.
+-  Cooking: Measuring ingredients and following recipes involve using numbers in different units.
+-  Phone numbers: Phone numbers are a series of digits that help us connect with others.
+-  Converting units of measurement in engineering and science.
+-  Wi-Fi password: Wi-Fi passwords often contain a combination of letters and numbers.
+-  Analyzing barcodes and QR codes for information retrieval uses number system.
+-  PIN codes: We use numerical PIN codes to access bank accounts, smartphones, and other devices.
+-  Measuring speed: Using numbers to calculate speed in kilometers per hour or miles per hour.
+-  Calculating discounts: Using percentages to calculate discounts during sales.
+-  Time zones: Understanding time differences between different places uses number system
+
+**algebra**
+-  Finance: Calculate interest rates, loan payments, and investment returns.
+-  Cost calculations: Using algebra to calculate the total cost of items with tax or discounts.
+-  Budgeting: Creating and analyzing budgets using algebra to balance income and expenses.
+-  Simple interest: Using algebra to calculate simple interest on loans or investments.
+-  Chemistry: Balance chemical equations and calculate reaction rates.
+-  Computer programming: Writing and solving algebraic equations for coding and algorithms.
+-  Travel planning: Algebra is used to calculate travel expenses, including airfare, accommodation, and food.
+-  Architecture: Scale and design building layouts using geometric algebra.
+-  Sports: Coaches and athletes use algebra to analyze performance data and plan strategies.
+-  Electrical Engineering: Analyze circuits and calculate current, voltage, and resistance.
+-  Car maintenance: Algebra helps calculate costs for fuel, repairs, and maintenance.
+-  Health and fitness: Algebra can be used to calculate body mass index (BMI), calorie intake, and workout progress.
+
