@@ -1290,6 +1290,14 @@ def index(request):
 
 @csrf_exempt
 def combined_api(request):
+    # Initializing global variables
+    evaluate_math = ""
+    category = ""
+    real_life_examples = ""
+    level_1_questions = ""
+    level_2_questions = ""
+    level_3_questions = ""
+    specific_category_questions = ""
 
     # Evaluate math
     pi = 3.14
@@ -1353,8 +1361,8 @@ def combined_api(request):
                 plt.savefig("output.jpg")
 
                 # output
-                return JsonResponse({"answer": str(solution[0])})  # 2
-
+                # return JsonResponse({"answer": str(solution[0])})  # 2
+                evaluate_math = str(solution[0])
 
 
             except:
@@ -1366,7 +1374,8 @@ def combined_api(request):
                         roots = sp.solve(equation, x)
 
                         # output
-                        return JsonResponse({"answer": str(roots)})
+                        # return JsonResponse({"answer": str(roots)})
+                        evaluate_math = str(roots)
 
                     else:
                         expr = user_input
@@ -1406,7 +1415,8 @@ def combined_api(request):
                             print_str += ("\n Roots are : " + roots_str[0] + ", " + roots_str[1])
 
                             # output
-                            return JsonResponse({"answer": print_str})
+                            # return JsonResponse({"answer": print_str})
+                            evaluate_math = print_str
 
                         else:
                             root1 = (-b + math.sqrt(discriminant)) / (2 * a)
@@ -1431,12 +1441,13 @@ def combined_api(request):
                             plt.savefig("output.jpg")
 
                             # output
-                            return JsonResponse({"answer": both_roots})  # "answer": ["-5","3"]
+                            # return JsonResponse({"answer": both_roots})  # "answer": ["-5","3"]
+                            evaluate_math = both_roots
                 except:
                     pass
                         
 
-
+    # Category
     if request.method == 'POST':
 
         # input
@@ -1560,8 +1571,9 @@ def combined_api(request):
         print_str = "the following question involves: "
 
         # output
-        return JsonResponse({"statement": print_str, "answer": str(
-            category_list)})  # "the following question involves: ",  "{'Quadratic Equation', 'number system'}"
+        # return JsonResponse({"statement": print_str, "answer": str(
+        #     category_list)})  # "the following question involves: ",  "{'Quadratic Equation', 'number system'}"
+        category = str(print_str) + str(category_list)
 
 
     if request.method == 'POST':
@@ -1732,10 +1744,11 @@ def combined_api(request):
             real_line += (content[que_num[0]])
 
         # output
-        return JsonResponse({"answer": real_line})
+        # return JsonResponse({"answer": real_line})
+        real_life_examples = real_line
 
 
-
+    # Level 1 qtns
     if request.method == 'POST':
 
         # input
@@ -1759,10 +1772,12 @@ def combined_api(request):
         new = ''.join(update_list)
 
         # output
-        return JsonResponse({"answer": str(new)})  # x + 3 = 7
+        # return JsonResponse({"answer": str(new)})  # x + 3 = 7
+        level_1_questions = str(new)
+        
 
 
-
+# Level 2 qtns
     if request.method == 'POST':
 
         # input
@@ -1909,7 +1924,8 @@ def combined_api(request):
             print_L2ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            # return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            level_2_questions = print_L2que + print_L2ans
 
 
         # trigonometry questions from 1 to 40
@@ -1934,7 +1950,8 @@ def combined_api(request):
             print_L2ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            # return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            level_2_questions = print_L2que + print_L2ans
 
 
         # Algebra questions from 43 to 80
@@ -1959,7 +1976,8 @@ def combined_api(request):
             print_L2ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            # return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            level_2_questions = print_L2que + print_L2ans
 
 
         # number system questions from 87 to 123
@@ -1984,7 +2002,8 @@ def combined_api(request):
             print_L2ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            # return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            level_2_questions = print_L2que + print_L2ans
 
 
         # mensuration questions from 126 to 170
@@ -2009,7 +2028,8 @@ def combined_api(request):
             print_L2ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            # return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            level_2_questions = print_L2que + print_L2ans
 
             # statistics and probability questions from 204 to 221
         elif "statistics and probability" in category_list:
@@ -2033,9 +2053,10 @@ def combined_api(request):
             print_L2ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            # return JsonResponse({"questions": print_L2que, "answers": print_L2ans})
+            level_2_questions = print_L2que + print_L2ans
 
-
+# Level 3 qtns
     if request.method == 'POST':
 
         # input
@@ -2182,7 +2203,8 @@ def combined_api(request):
             print_L3ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            # return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            level_3_questions = print_L3que + print_L3ans
 
 
 
@@ -2209,7 +2231,8 @@ def combined_api(request):
             print_L3ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            # return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            level_3_questions = print_L3que + print_L3ans
 
         # Algebra questions from 43 to 80
         elif "algebra" in category_list and "trigonometry" not in category_list:
@@ -2233,7 +2256,8 @@ def combined_api(request):
             print_L3ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            # return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            level_3_questions = print_L3que + print_L3ans
 
         # number system questions from 87 to 123
         elif "number system" in category_list and "trigonometry" not in category_list and "algebra" not in category_list and "statistics and probability" not in category_list:
@@ -2257,7 +2281,8 @@ def combined_api(request):
             print_L3ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            # return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            level_3_questions = print_L3que + print_L3ans
 
 
         # mensuration questions from 126 to 170
@@ -2282,7 +2307,8 @@ def combined_api(request):
             print_L3ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            # return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            level_3_questions = print_L3que + print_L3ans
 
         # statistics and probability questions from 204 to 221
         elif "statistics and probability" in category_list:
@@ -2306,7 +2332,8 @@ def combined_api(request):
             print_L3ans += (content2[que_num[2]])
 
             # output
-            return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            # return JsonResponse({"questions": print_L3que, "answers": print_L3ans})
+            level_3_questions = print_L3que + print_L3ans
 
 # Specific category questions -------------------------------------------------
     if request.method == 'POST':
@@ -2349,7 +2376,8 @@ def combined_api(request):
             print_Sans += (content4[que_num[1]])
 
             # output
-            return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            # return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            specific_category_questions = print_Sque + "\n" + print_Sans
 
 
 
@@ -2390,7 +2418,8 @@ def combined_api(request):
             print_Sans += (content4[que_num[1]])
 
             # output
-            return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            # return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            specific_category_questions = print_Sque + "\n" + print_Sans
 
 
 
@@ -2430,7 +2459,8 @@ def combined_api(request):
             print_Sans += (content4[que_num[1]])
 
             # output
-            return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            # return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            specific_category_questions = print_Sque + "\n" + print_Sans
 
 
 
@@ -2470,7 +2500,8 @@ def combined_api(request):
             print_Sans += (content4[que_num[1]])
 
             # output
-            return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            # return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            specific_category_questions = print_Sque + "\n" + print_Sans
 
 
 
@@ -2510,7 +2541,8 @@ def combined_api(request):
             print_Sans += (content4[que_num[1]])
 
             # output
-            return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            # return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            specific_category_questions = print_Sque + "\n" + print_Sans
 
 
 
@@ -2550,7 +2582,8 @@ def combined_api(request):
             print_Sans += (content4[que_num[1]])
 
             # output
-            return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            # return JsonResponse({"questions": print_Sque, "answers": print_Sans})
+            specific_category_questions = print_Sque + "\n" + print_Sans
 
     combined_data = {
         "math_data": evaluate_math,
